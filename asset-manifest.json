@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/The-Guardian-Tech-News/static/css/main.9d020f39.chunk.css",
-    "main.js": "/The-Guardian-Tech-News/static/js/main.099de3da.chunk.js",
-    "main.js.map": "/The-Guardian-Tech-News/static/js/main.099de3da.chunk.js.map",
-    "runtime-main.js": "/The-Guardian-Tech-News/static/js/runtime-main.d05ab20d.js",
-    "runtime-main.js.map": "/The-Guardian-Tech-News/static/js/runtime-main.d05ab20d.js.map",
-    "static/js/2.2e275898.chunk.js": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js",
-    "static/js/2.2e275898.chunk.js.map": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js.map",
+    "main.css": "/The-Guardian-Tech-News/static/css/main.fdf09033.chunk.css",
+    "main.js": "/The-Guardian-Tech-News/static/js/main.05f162da.chunk.js",
+    "main.js.map": "/The-Guardian-Tech-News/static/js/main.05f162da.chunk.js.map",
+    "runtime-main.js": "/The-Guardian-Tech-News/static/js/runtime-main.48daeda0.js",
+    "runtime-main.js.map": "/The-Guardian-Tech-News/static/js/runtime-main.48daeda0.js.map",
+    "static/js/2.b4bbf9bc.chunk.js": "/The-Guardian-Tech-News/static/js/2.b4bbf9bc.chunk.js",
+    "static/js/2.b4bbf9bc.chunk.js.map": "/The-Guardian-Tech-News/static/js/2.b4bbf9bc.chunk.js.map",
     "index.html": "/The-Guardian-Tech-News/index.html",
-    "precache-manifest.2932912a79d425fd6b4626e5805636b0.js": "/The-Guardian-Tech-News/precache-manifest.2932912a79d425fd6b4626e5805636b0.js",
+    "precache-manifest.dff92a3cbc4aec43d013234db4cacf3c.js": "/The-Guardian-Tech-News/precache-manifest.dff92a3cbc4aec43d013234db4cacf3c.js",
     "service-worker.js": "/The-Guardian-Tech-News/service-worker.js",
-    "static/css/main.9d020f39.chunk.css.map": "/The-Guardian-Tech-News/static/css/main.9d020f39.chunk.css.map",
+    "static/css/main.fdf09033.chunk.css.map": "/The-Guardian-Tech-News/static/css/main.fdf09033.chunk.css.map",
     "static/media/logo.png": "/The-Guardian-Tech-News/static/media/logo.93b8d6e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d05ab20d.js",
-    "static/js/2.2e275898.chunk.js",
-    "static/css/main.9d020f39.chunk.css",
-    "static/js/main.099de3da.chunk.js"
+    "static/js/runtime-main.48daeda0.js",
+    "static/js/2.b4bbf9bc.chunk.js",
+    "static/css/main.fdf09033.chunk.css",
+    "static/js/main.05f162da.chunk.js"
   ]
 }
