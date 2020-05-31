@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d020f39.chunk.css",
-    "main.js": "/static/js/main.eb950e71.chunk.js",
-    "main.js.map": "/static/js/main.eb950e71.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.69a7b1fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.69a7b1fa.js.map",
-    "static/js/2.2e275898.chunk.js": "/static/js/2.2e275898.chunk.js",
-    "static/js/2.2e275898.chunk.js.map": "/static/js/2.2e275898.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.052a4ed1a1cc97ede65a96e5d65c4f16.js": "/precache-manifest.052a4ed1a1cc97ede65a96e5d65c4f16.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9d020f39.chunk.css.map": "/static/css/main.9d020f39.chunk.css.map",
-    "static/media/logo.png": "/static/media/logo.93b8d6e9.png"
+    "main.css": "/The-Guardian-Tech-News/static/css/main.9d020f39.chunk.css",
+    "main.js": "/The-Guardian-Tech-News/static/js/main.099de3da.chunk.js",
+    "main.js.map": "/The-Guardian-Tech-News/static/js/main.099de3da.chunk.js.map",
+    "runtime-main.js": "/The-Guardian-Tech-News/static/js/runtime-main.d05ab20d.js",
+    "runtime-main.js.map": "/The-Guardian-Tech-News/static/js/runtime-main.d05ab20d.js.map",
+    "static/js/2.2e275898.chunk.js": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js",
+    "static/js/2.2e275898.chunk.js.map": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js.map",
+    "index.html": "/The-Guardian-Tech-News/index.html",
+    "precache-manifest.2932912a79d425fd6b4626e5805636b0.js": "/The-Guardian-Tech-News/precache-manifest.2932912a79d425fd6b4626e5805636b0.js",
+    "service-worker.js": "/The-Guardian-Tech-News/service-worker.js",
+    "static/css/main.9d020f39.chunk.css.map": "/The-Guardian-Tech-News/static/css/main.9d020f39.chunk.css.map",
+    "static/media/logo.png": "/The-Guardian-Tech-News/static/media/logo.93b8d6e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.69a7b1fa.js",
+    "static/js/runtime-main.d05ab20d.js",
     "static/js/2.2e275898.chunk.js",
     "static/css/main.9d020f39.chunk.css",
-    "static/js/main.eb950e71.chunk.js"
+    "static/js/main.099de3da.chunk.js"
   ]
 }
