@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/The-Guardian-Tech-News/precache-manifest.dff92a3cbc4aec43d013234db4cacf3c.js"
+  "/The-Guardian-Tech-News/precache-manifest.d6c5e97408b5fbc3a4b93977ee9d21b4.js"
 );
 
 self.addEventListener('message', (event) => {
