@@ -1,3 +1,6 @@
+# The Guardian Tech News React App
+![Deploy](https://github.com/HrithikKumar49/The-Guardian-Tech-News/workflows/Deploy/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This App Displays Top 10 Headlines from [The Gaurdian Newspaper Website](https://www.theguardian.com/) using its [API](https://open-platform.theguardian.com/)
