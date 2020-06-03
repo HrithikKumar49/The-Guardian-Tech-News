@@ -41,17 +41,15 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} alt="The Gaurdian logo"></img>
-          <h1>
-            Tech News
-          </h1>
-          <ul style={{listStyleType:'none'}}>
-            {this.state.headlines.map((element) => {
-              return <li style={{margin:'10px'}}><a href={element.webUrl} style={{color:'white'}}>{element.webTitle}</a></li>
-            })}
-          </ul>
-        </header>
+        <img src={logo} alt="The Gaurdian logo"></img>
+        <h1>
+          Tech News
+        </h1>
+        <ul>
+          {this.state.headlines.map((element) => {
+            return <li style={{margin:'10px'}}><a href={element.webUrl} style={{color:'white'}}>{element.webTitle}</a></li>
+          })}
+        </ul>
       </div>);
   }
 }
