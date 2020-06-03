@@ -47,7 +47,7 @@ class App extends React.Component {
         </h1>
         <ul>
           {this.state.headlines.map((element) => {
-            return <li style={{margin:'10px'}}><a href={element.webUrl} style={{color:'white'}}>{element.webTitle}</a></li>
+            return <li style={{margin:'10px'}}><a href={element.webUrl}>{element.webTitle}</a></li>
           })}
         </ul>
       </div>);
