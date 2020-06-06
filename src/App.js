@@ -7,7 +7,7 @@ import logo from './logo.png'
 class App extends React.Component {
 
   constructor() {
-    super(();
+    super();
     this.state = {
       headlines: []
     };
