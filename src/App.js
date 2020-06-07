@@ -16,7 +16,7 @@ class App extends React.Component {
   async componentDidMount() {
     try {
       const url = "https://content.guardianapis.com/technology";
-      const api_key = "2bcc5ab8-2963-4b20-8bd4-ce30f67268e8";
+      const api_key = process.env.REACT_APP_THE_GUARDIAN_APIKEY || "2bcc5ab8-2963-4b20-8bd4-ce30f67268e";
       const configs = {
         params: {
           "api-key": api_key

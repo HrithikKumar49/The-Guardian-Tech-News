@@ -34,6 +34,8 @@ jobs:
 
     - run: yarn install
     - run: yarn build
+      env:
+        REACT_APP_THE_GUARDIAN_APIKEY: ${{ secrets.REACT_APP_THE_GUARDIAN_APIKEY }}
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
