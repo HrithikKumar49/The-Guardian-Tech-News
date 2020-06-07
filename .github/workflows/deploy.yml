@@ -34,8 +34,7 @@ jobs:
 
     - run: yarn install
     - run: yarn build
-
-    - env:
+      env:
         REACT_APP_THE_GUARDIAN_APIKEY: ${{ secrets.REACT_APP_THE_GUARDIAN_APIKEY }}
 
     - name: Deploy
