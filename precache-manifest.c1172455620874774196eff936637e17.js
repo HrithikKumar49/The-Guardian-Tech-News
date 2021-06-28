@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13095523efa8505f477d14993371397b",
+    "revision": "a34e6cbb1e6c442c8f4d0bf594ca918e",
     "url": "/The-Guardian-Tech-News/index.html"
   },
   {
-    "revision": "bfbb345668fb48351c83",
+    "revision": "ce2f6f0a41fb6738f8d9",
     "url": "/The-Guardian-Tech-News/static/css/main.674d11f4.chunk.css"
   },
   {
-    "revision": "95f6f1bd5c68f8a6479a",
-    "url": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js"
+    "revision": "3d2ab81e9381f6beea0d",
+    "url": "/The-Guardian-Tech-News/static/js/2.231157c1.chunk.js"
   },
   {
-    "revision": "bfbb345668fb48351c83",
-    "url": "/The-Guardian-Tech-News/static/js/main.818331aa.chunk.js"
+    "revision": "ce2f6f0a41fb6738f8d9",
+    "url": "/The-Guardian-Tech-News/static/js/main.588ac085.chunk.js"
   },
   {
     "revision": "63d12ed61d5162fd0221",

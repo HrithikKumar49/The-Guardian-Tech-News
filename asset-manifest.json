@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/The-Guardian-Tech-News/static/css/main.674d11f4.chunk.css",
-    "main.js": "/The-Guardian-Tech-News/static/js/main.818331aa.chunk.js",
-    "main.js.map": "/The-Guardian-Tech-News/static/js/main.818331aa.chunk.js.map",
+    "main.js": "/The-Guardian-Tech-News/static/js/main.588ac085.chunk.js",
+    "main.js.map": "/The-Guardian-Tech-News/static/js/main.588ac085.chunk.js.map",
     "runtime-main.js": "/The-Guardian-Tech-News/static/js/runtime-main.d05ab20d.js",
     "runtime-main.js.map": "/The-Guardian-Tech-News/static/js/runtime-main.d05ab20d.js.map",
-    "static/js/2.2e275898.chunk.js": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js",
-    "static/js/2.2e275898.chunk.js.map": "/The-Guardian-Tech-News/static/js/2.2e275898.chunk.js.map",
+    "static/js/2.231157c1.chunk.js": "/The-Guardian-Tech-News/static/js/2.231157c1.chunk.js",
+    "static/js/2.231157c1.chunk.js.map": "/The-Guardian-Tech-News/static/js/2.231157c1.chunk.js.map",
     "index.html": "/The-Guardian-Tech-News/index.html",
-    "precache-manifest.08bac2530f2b0e90fbedd5e44541ed8b.js": "/The-Guardian-Tech-News/precache-manifest.08bac2530f2b0e90fbedd5e44541ed8b.js",
+    "precache-manifest.c1172455620874774196eff936637e17.js": "/The-Guardian-Tech-News/precache-manifest.c1172455620874774196eff936637e17.js",
     "service-worker.js": "/The-Guardian-Tech-News/service-worker.js",
     "static/css/main.674d11f4.chunk.css.map": "/The-Guardian-Tech-News/static/css/main.674d11f4.chunk.css.map",
     "static/media/logo.png": "/The-Guardian-Tech-News/static/media/logo.93b8d6e9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d05ab20d.js",
-    "static/js/2.2e275898.chunk.js",
+    "static/js/2.231157c1.chunk.js",
     "static/css/main.674d11f4.chunk.css",
-    "static/js/main.818331aa.chunk.js"
+    "static/js/main.588ac085.chunk.js"
   ]
 }
